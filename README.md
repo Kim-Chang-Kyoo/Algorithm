@@ -1,4 +1,4 @@
-# coding test
+# coding test [작업중]
 
 
 
@@ -12,6 +12,10 @@
 [toc]
 
 ## 1. [swea](https://swexpertacademy.com/main/main.do)
+
+[프로필](https://swexpertacademy.com/main/userpage/code/userCode.do?userId=AWIYbRj6sF8DFASK)
+
+
 
 [correct]
 
@@ -47,14 +51,13 @@
 
 
 
+## 2. [baekjoon](https://www.acmicpc.net/)
 
-
-## 2. [programmers](https://programmers.co.kr/competitions)
-
-
-
-## 3. [baekjoon](https://www.acmicpc.net/)
+[프로필](https://www.acmicpc.net/user/cgkong)
 
 
 
-## 4. [softeer](https://softeer.ai/index.do)
+## 3. [programmers](https://programmers.co.kr/competitions)
+
+
+
