@@ -13,10 +13,6 @@
 
 ## 1. [swea](https://swexpertacademy.com/main/main.do)
 
-[프로필](https://swexpertacademy.com/main/userpage/code/userCode.do?userId=AWIYbRj6sF8DFASK)
-
-
-
 [correct]
 
 [4828번 min_max](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
@@ -53,7 +49,7 @@
 
 ## 2. [baekjoon](https://www.acmicpc.net/)
 
-[프로필](https://www.acmicpc.net/user/cgkong)
+
 
 
 
